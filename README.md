@@ -4,7 +4,7 @@
 
 Парсер с помощью библиотек requests и BeautifulSoup(bs4) парсит такие данные:
 
---- title статьи
+- title статьи
 --- text статьи
 --- publicated_date дата публикации статьи
 
