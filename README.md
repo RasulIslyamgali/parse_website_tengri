@@ -3,6 +3,7 @@
 парсинг данных из указанного веб сайта
 
 Парсер с помощью библиотек requests и BeautifulSoup(bs4) парсит такие данные:
+
 --- title статьи
 --- text статьи
 --- publicated_date дата публикации статьи
@@ -14,6 +15,7 @@
 
 
 The parser uses the requests and BeautifulSoup libraries (bs4) to parse the following data:
+
 --- article title
 --- text of the article
 --- publicated_date publication date of the article
